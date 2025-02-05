@@ -28,7 +28,9 @@ Things you may want to cover:
 - rails new FreeDoc
 - cd FreeDoc
 
-Tcheck with
+* rails db:migrate
+* rails db:seed
+  Tcheck with
 
 - rails console
   Doctor.all
